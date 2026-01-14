@@ -80,5 +80,3 @@ This project demonstrates a complete end-to-end machine learning pipeline, from 
 - Deploy the model using Flask or Streamlit  
 
 ---
-
-## Project Structure
